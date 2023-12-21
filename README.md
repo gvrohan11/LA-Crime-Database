@@ -1,4 +1,10 @@
-# sp23-cs411-team055-ABCD
+# LA Crime Database - CS 411 Project
+
+Web App made with **React** frontend and **NodeJs** backend. 
+
+Retrieved info and added to database using **MySQL** server and **Google GCP**
+
+Worked in a team of 4.
 
 Video Demo - 
 
