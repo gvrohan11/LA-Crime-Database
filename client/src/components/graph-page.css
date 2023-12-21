@@ -1,0 +1,66 @@
+#graph-page .contents {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 50px auto;
+    width: 1300px;
+}
+
+/* Options container for the GraphPage */
+#graph-page .options {
+    width: 330px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Graph container for the GraphPage */
+#graph-page .graph {
+    width: 900px;
+    height: 200px;
+    margin-left: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#graph-page .opt-sec-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+#graph-page .opt-sec-option {
+    margin-bottom: 20px;
+    
+}
+
+#graph-page .option-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+#graph-page .option-label {
+    font-size: 16px;
+    color: #333;
+}
+
+#graph-page .option-select {
+    width: 50%;
+}
+
+#graph-page .opt-sec {
+    border-radius: 5px; 
+}
+
+#graph-page .opt-sec-title,
+#graph-page .opt-sec-option {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
