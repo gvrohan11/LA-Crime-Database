@@ -1,4 +1,4 @@
-# LA Crime Database - CS 411 Project
+# LA Crime Database - CS 411 Project (Spring 2023)
 
 Web App made with **React** frontend and **NodeJs** backend. 
 
